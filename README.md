@@ -58,7 +58,7 @@
 Указать порт, URL, логин и пароль согласно Вашей настройке, например:
 
 ```
-spring.datasource.url=jdbc:postgresql://localhost:5436/postgres
+spring.datasource.url=jdbc:postgresql://localhost:5432/postgres
 spring.datasource.username=postgres
 spring.datasource.password=postgres
 ```
